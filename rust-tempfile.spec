@@ -6,7 +6,7 @@
 
 Name:           rust-%{crate}
 Version:        3.2.0
-Release:        1
+Release:        2
 Summary:        Library for managing temporary files and directories
 
 # Upstream license specification: MIT OR Apache-2.0
